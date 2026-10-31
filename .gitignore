@@ -1,0 +1,18 @@
+# Large datasets
+data/
+*.csv
+*.parquet
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment and secrets
+.env
+.env.*
+
+# Results and temporary files
+*.log
+.DS_Store
